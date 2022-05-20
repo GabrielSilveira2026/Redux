@@ -24,3 +24,8 @@ const solicitarCashback = (nome,valor) =>{
         }
     }
 }
+
+//funcão redux
+const historicoDePedidosDeCashBacks = (historicoDePedidosDeCashBacks = []) => {
+
+}
